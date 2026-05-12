@@ -1,4 +1,6 @@
 # DMG Maker
+![Preview](preview.png)
+
 
 A simple and elegant bash script to create customized macOS DMG installers with background images for various file types including `.dictionary`, `.app`, `.qlgenerator`, and more.
 

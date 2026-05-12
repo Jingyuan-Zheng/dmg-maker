@@ -1,0 +1,4 @@
+*.dmg
+rw.*
+staging/
+.DS_Store
